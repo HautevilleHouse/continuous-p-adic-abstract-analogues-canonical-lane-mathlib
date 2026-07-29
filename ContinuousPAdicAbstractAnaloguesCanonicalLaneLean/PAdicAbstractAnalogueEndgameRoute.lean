@@ -1,0 +1,12 @@
+import canonicalLaneMathlib.AdmissibleClass
+import ContinuousPAdicAbstractAnaloguesCanonicalLaneLean.PAdicAbstractAnalogueFinalTheorem
+
+namespace HautevilleHouse
+namespace ContinuousPAdicAbstractAnaloguesCanonicalLaneLean
+
+theorem endgame_route_closed (A : AdmissibleClass) :
+    ConstrainedPAdicAbstractAnalogueClosure A := by
+  exact constrained_padic_abstract_analogue_endgame A
+
+end ContinuousPAdicAbstractAnaloguesCanonicalLaneLean
+end HautevilleHouse

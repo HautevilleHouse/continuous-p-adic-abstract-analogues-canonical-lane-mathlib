@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace ContinuousPAdicAbstractAnaloguesCanonicalLaneLean
+
+-- Root module: imports all submodules
+
+end ContinuousPAdicAbstractAnaloguesCanonicalLaneLean
+end HautevilleHouse
